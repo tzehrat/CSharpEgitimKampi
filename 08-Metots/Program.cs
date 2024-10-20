@@ -185,16 +185,20 @@ namespace _08_Metots
 
             //}
 
-            string ExamResult(string student,int exam1, int exam2,int exam3)
+
+            #endregion
+
+            #region Örnek Uygulama
+            string ExamResult(string student, int exam1, int exam2, int exam3)
             {
 
-                
+
 
                 int studenResult = (exam1 + exam2 + exam3) / 3;
 
                 if (studenResult >= 50)
                 {
-                    return student+" isimli öğrenci BAŞARILI olmuştur. "+"Ortalama: "+studenResult;
+                    return student + " isimli öğrenci BAŞARILI olmuştur. " + "Ortalama: " + studenResult;
                 }
                 else
                 {
@@ -203,20 +207,20 @@ namespace _08_Metots
 
             }
             Console.Write("Öğrenci adını giriniz: ");
-         string   studentName = Console.ReadLine();
+            string studentName = Console.ReadLine();
             Console.Write("Öğrencinin 1. sınav notunu giriniz: ");
             int t = int.Parse(Console.ReadLine());
             Console.Write("Öğrencinin 2. sınav notunu giriniz: ");
-           int  v = int.Parse(Console.ReadLine());
+            int v = int.Parse(Console.ReadLine());
 
             Console.Write("Öğrencinin 3.sınav notunu giriniz: ");
-          int   w = int.Parse(Console.ReadLine());
+            int w = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(ExamResult(studentName,t,v,w)) ;
+            Console.WriteLine(ExamResult(studentName, t, v, w));
             Console.WriteLine();
             Console.WriteLine("-----------------");
             Console.WriteLine();
-            Console.WriteLine(ExamResult("zehra",100,100,100)) ;
+            Console.WriteLine(ExamResult("zehra", 100, 100, 100));
 
             #endregion
             Console.Read();
