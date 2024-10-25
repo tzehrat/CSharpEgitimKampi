@@ -24,7 +24,7 @@
 ## 📍 Class 6 - Arrays
 - Farklı veri tipleri kullanarak Diziler ile algoritmalar yazıldı.
 - Kullanıcıdan verileri alarak Diziler ile işlemler yapılan algoritmalar yazıldı.
-- 
+
 ## 📍 Class 7 - Foreach
 - Foreach döngüsü ile algoritmalar yazıldı.
 - Öğrenci Bilgi Sistemi Otomasyonu yazıldı.
