@@ -19,7 +19,7 @@
 - While Döngüsü ile algoritmalar yazıldı.
 
 ## 📍 Class 5 - Loops and Examples
--For döngülerini ve iç içe For döngülerini kullanarak '*' ile alıştırmalar yapıldı. (Piramit, Dik Üçgen, Baklava dilimi....)
+- For döngülerini ve iç içe For döngülerini kullanarak '*' ile alıştırmalar yapıldı. (Piramit, Dik Üçgen, Baklava dilimi....)
 
 ## 📍 Class 6 - Arrays
 - Farklı veri tipleri kullanarak Diziler ile algoritmalar yazıldı.
@@ -33,7 +33,7 @@
 - Geriye değer döndürmeyen Metotlar ile algoritmalar yazıldı.
 - Geriye değer döndürmeyen parametreli Metotlar ile alıştırmalar yapıldı.
 - Geriye değer Döndüren Parametreli Metotlar ile algoritmalar yazıldı.
-- Metotlar ile Çğrenci Bilgi Sistemi Otomasyonu yazıldı.
+- Metotlar ile Öğrenci Bilgi Sistemi Otomasyonu yazıldı.
 
 
 
