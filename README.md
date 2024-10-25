@@ -40,7 +40,7 @@
 # 📌 C# 201 
 
 
-## 📍 Class 9 - Database Connesction
+## 📍 Class 9 - Database Connection
 - MSSQL kurulumu yapıldı ve kullanımı öğrenildi.
 - MSSQL ile Veritabanı sorguları yazıldı.
 - C# projesinde Veritabanı bağlantısı yapıldı.
