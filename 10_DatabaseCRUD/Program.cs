@@ -13,7 +13,7 @@ namespace _10_DatabaseCRUD
     {
         static void Main(string[] args)
         {
-            //CRUD operations
+            //CRUD operations Example
 
             Console.WriteLine("***** Menü Sipariş İşlem Paneli *****");
             Console.WriteLine();
