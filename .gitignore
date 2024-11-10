@@ -360,5 +360,9 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
+<<<<<<< HEAD
+FodyWeavers.xsd
+=======
 FodyWeavers.xsd
 /08-Metots/08-Metots.csproj
+>>>>>>> 49e472a780e1956ac92678c2b250fb54c2b424ae
